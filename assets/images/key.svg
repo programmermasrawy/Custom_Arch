@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="53.849" viewBox="0 0 54 53.849">
+    <g data-name="Group 12603">
+        <g data-name="Group 12602">
+            <g data-name="Group 12601">
+                <g data-name="Group 12600">
+                    <g data-name="Group 12599">
+                        <g data-name="Group 12598">
+                            <g data-name="Group 12597">
+                                <g data-name="Group 12596">
+                                    <g data-name="Group 12595">
+                                        <g data-name="Group 12594">
+                                            <g data-name="Group 12593">
+                                                <ellipse data-name="Ellipse 112" cx="26.924" cy="26.925" rx="26.924" ry="26.925" style="fill:#a3d6dd"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <path data-name="Path 3868" d="M151.739 129.862c0-.823-.039-1.636-.11-2.44l-12.549-12.549-30.15 30.15 11.753 11.753a27.2 27.2 0 0 0 31.056-26.914z" transform="translate(-97.739 -103.353)" style="fill:#54bcb1"/>
+    <g data-name="Group 12605">
+        <path data-name="Path 3869" d="m113.425 145.228 1.652-1.652v-3.411h3.411v-3.411h3.412l5.995-5.995a9.86 9.86 0 0 0 11.186-15.887l-13.1 11.285-17.049 18.865z" transform="translate(-97.476 -103.03)" style="fill:#f39800"/>
+        <path data-name="Path 3870" d="m107.2 120.72 30.15-30.15a9.86 9.86 0 0 0-15.887 11.186L107 116.225z" transform="translate(-95.752 -78.727)" style="fill:#fec200"/>
+        <g data-name="Group 12604" transform="translate(34.973 13.279)">
+            <circle data-name="Ellipse 113" cx="2.597" cy="2.597" r="2.597" style="fill:#5ecdf3"/>
+        </g>
+    </g>
+</svg>

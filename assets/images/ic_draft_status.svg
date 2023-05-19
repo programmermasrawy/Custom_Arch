@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="168" viewBox="0 0 168 168">
+    <path data-name="Path 1889" d="M167.988 82.6a83.856 83.856 0 0 1-32.688 67.914 157.589 157.589 0 0 1-102.5-.284l-.836-.29A84 84 0 1 1 167.988 82.6z" style="fill:#ffac4d"/>
+    <path data-name="Path 1890" d="M168 170.672a83.857 83.857 0 0 1-32.7 66.514 157.589 157.589 0 0 1-102.5-.286l-.836-.29A84.036 84.036 0 0 1 11.051 129a84.024 84.024 0 0 0 145.9 0A83.6 83.6 0 0 1 168 170.672z" transform="translate(0 -86.672)" style="fill:#f80"/>
+    <path data-name="Path 1891" d="M200.743 119.916v108.376a83.636 83.636 0 0 1-51.3 17.483h-.371A83.619 83.619 0 0 1 97.4 227.716v-107.8a4.156 4.156 0 0 1 4.156-4.156h95.03a4.156 4.156 0 0 1 4.156 4.156z" transform="translate(-65.441 -77.776)" style="fill:#fff"/>
+    <path data-name="Path 1892" d="M306.543 119.916v108.376a83.642 83.642 0 0 1-51.669 17.483V115.76h47.517a4.156 4.156 0 0 1 4.156 4.156z" transform="translate(-171.241 -77.776)" style="fill:#d1f6ff"/>
+    <g data-name="Group 10298">
+        <path data-name="Path 1893" d="m0 32.89 21.665 10.147L45.593 0" transform="rotate(12.04 -329.153 365.92)" style="stroke:#2359aa;fill:none;stroke-width:10px"/>
+        <path data-name="Path 1894" d="M0 39.13 21.89 0" transform="rotate(12.04 -340.924 478.631)" style="stroke:#09316d;fill:none;stroke-width:10px"/>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="149" viewBox="0 0 360 149">
+    <defs>
+        <linearGradient id="amikqrjvma" y1=".426" x2=".979" y2=".426" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#8e2de2"/>
+            <stop offset="1" stop-color="#4a00e0"/>
+        </linearGradient>
+        <linearGradient id="tpnppipvqc" y1=".426" x2=".979" y2=".426" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#004f9e"/>
+            <stop offset="1" stop-color="#01478d"/>
+        </linearGradient>
+        <linearGradient id="hr2wydcv7e" y1=".426" x2=".979" y2=".426" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#4fb5b0"/>
+            <stop offset="1" stop-color="#004f9e"/>
+        </linearGradient>
+        <clipPath id="blflppiozb">
+            <path data-name="Rectangle 1500" style="fill:#fff;stroke:#707070" d="M0 0h360v149H0z"/>
+        </clipPath>
+        <clipPath id="chvcyjn7vd">
+            <path d="M0 0h360v294H80a80 80 0 0 1-80-80V0z" style="fill:url(#amikqrjvma)"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 1" style="clip-path:url(#blflppiozb)">
+        <g data-name="Oval + Oval + Oval Mask">
+            <path data-name="Mask" d="M0 0h360v294H80a80 80 0 0 1-80-80V0z" transform="translate(0 -121)" style="fill:url(#tpnppipvqc)"/>
+            <g data-name="Oval + Oval + Oval Mask" style="clip-path:url(#chvcyjn7vd)" transform="translate(0 -121)">
+                <ellipse cx="242" cy="241.5" rx="242" ry="241.5" transform="translate(-193 -156)" style="fill:url(#hr2wydcv7e)"/>
+                <ellipse data-name="Oval" cx="170" cy="169.5" rx="170" ry="169.5" transform="translate(-121 -84)" style="fill:url(#hr2wydcv7e)"/>
+                <path data-name="Oval" d="M99 0c54.676 0 99 44.1 99 98.5S153.676 197 99 197 0 152.9 0 98.5 44.324 0 99 0z" transform="translate(-50 -13)" style="fill:url(#hr2wydcv7e)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.202" height="22.084" viewBox="0 0 25.202 22.084">
+    <defs>
+        <filter id="1e16p4wmoa" x="0" y="0" width="25.202" height="22.084" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="1.5" result="blur"/>
+            <feFlood flood-opacity=".271"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#1e16p4wmoa)" data-name="Group 13573">
+        <path data-name="Path 1939" d="m4037.221 8153.426 2.811 3.034 7.881-7.125" transform="rotate(-7 -64555.962 37025.133)" style="fill:none;stroke:#0d8700;stroke-linecap:round;stroke-width:3px"/>
+    </g>
+</svg>
